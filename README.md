@@ -1,7 +1,7 @@
 # California-Housing-Prices
 
 Description:
-The provided Python code is a data analysis and machine learning project focused on housing data. The code reads housing data from a CSV file, performs data preprocessing, exploratory data analysis (EDA), feature engineering, and trains machine learning models. Here is a summary of the key components and functionalities of the code:
+This is a data analysis and machine learning project focused on housing data. The code reads housing data from a CSV file, performs data preprocessing, exploratory data analysis (EDA), feature engineering, and trains machine learning models. Here is a summary of the key components and functionalities of the code:
 
 Imports: The code imports essential libraries, including Pandas for data manipulation, NumPy for numerical operations, Matplotlib for data visualization, Seaborn for enhanced visualization, and scikit-learn for machine learning.
 
